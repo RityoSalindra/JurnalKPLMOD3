@@ -40,7 +40,7 @@ namespace modul3_1302204014
             do
             {
                 Console.WriteLine("" + screenName[(int)state]);
-                Console.Write("Berubah : ");
+                Console.Write("yang berubah : ");
                 String command = Console.ReadLine();
                 switch (state)
                 {
